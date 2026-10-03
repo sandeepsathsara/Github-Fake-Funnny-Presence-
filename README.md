@@ -1,4 +1,4 @@
-# 🖤 Porn Hub — Discord Rich Presence 🧡
+# 🖤 Funny — Discord Rich Presence 🧡
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
 [![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/)
